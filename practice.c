@@ -678,6 +678,7 @@ int factorial(int n)
 }
 */
 
+// 난수 정리
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
